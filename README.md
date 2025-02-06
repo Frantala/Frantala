@@ -42,7 +42,7 @@ Hi, I'm Talarico Franco!
 
 ### 👨‍💻 Programming Languages
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"></a>
 
 ### 🧰 Frameworks and Libraries
 
