@@ -20,13 +20,13 @@ Hi, I'm Talarico Franco!
 <hr>
 
 <pre>
-💻 I am a self taught Machine Learning Developer
+💻 I am a self taught Backend Developer
 📚 I am studying a University Technician in Programming
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, SQL
-🚩 Interested in Full Stack Machine Learning Application development
+📝 I have a strong interest in Scalable Systems and Software Architecture
+🔭 Working on API Development like Minimal APIs
+🌱 Learning about integrate IA at .NET apps
+🌟 Main languages: C#, SQL
+🚩 Interested in Full Stack Web Application development
 </pre>
 <hr>
 
@@ -38,33 +38,18 @@ Hi, I'm Talarico Franco!
   <a href="https://www.instagram.com/francotalarico_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 🛠️ My Favorite Tools
+## 🛠 My Favorite Tools
 
 ### 👨‍💻 Programming Languages
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp" />
+</a>
 
 ### 🧰 Frameworks and Libraries
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="aspnetcore" /> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="efcore" /> <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="linq" />
 
-</p>
-<p>
-    <a href="https://github.com/Frantala"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Frantala"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Frantala"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
-    <a href="https://github.com/Frantala"><img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
-   
-</p>
-
-## 🗄️ Databases
-
-<p>
-    <a href="https://github.com/Frantala"><img alt="Firebase" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-</p>
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql-server" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 
 ### 💻 Software and Tools
-
-<p>
-    <a href="https://github.com/Frantala"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/Frantala"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="https://github.com/Frantala"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-</p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visual-studio" /> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" />
